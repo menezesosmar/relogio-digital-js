@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   background-color: #dfdfdf;
-  font-family: Poppins, sans-serif;
 }
 
 .relogio {
@@ -15,17 +14,20 @@
 
 .display-relogio {
   background-color: #121b3a;
-  width: 300px;
+  width: 450px;
   height: 200px;
   text-align: center;
   line-height: 200px;
   border-radius: 15px;
+  border: 10px solid #e7be09;
   color: #ffff;
   font-size: 5rem;
+  font-family: Orbitron, sans-serif;
 }
 
 footer {
   font-size: 2rem;
   margin-top: 15px;
   color: #121b3a;
+  font-family: Poppins, sans-serif;
 }
